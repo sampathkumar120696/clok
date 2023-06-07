@@ -1,0 +1,24 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+}
+body{
+   /* background-image: url('https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_640.jpg');
+    background-repeat: no-repeat;*/
+    
+}
+.container{
+    background-image: url(https://images.unsplash.com/photo-1607969391576-48f9021ded30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bmlnaHQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&w=1000&q=80);
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
